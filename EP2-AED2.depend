@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530547050 source:c:\users\administrador\desktop\ep\ep2-aed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
